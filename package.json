@@ -1,6 +1,6 @@
 {
   "name": "@kapouer/oembed-providers",
-  "version": "1.0.20201230",
+  "version": "1.0.20210203",
   "license": "MIT",
   "description": "oEmbed providers",
   "main": "providers.json",
